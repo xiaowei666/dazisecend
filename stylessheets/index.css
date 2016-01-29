@@ -1,0 +1,33 @@
+html,body{
+	margin:0 auto;
+	font-family: "微软雅黑";
+	min-width: 980px;
+	background: #333;
+	height:5000px;
+	border:0px solid red;
+	width:100%;
+	height:100%;
+	overflow: hidden;
+	background: url(../images/da/hua.png) no-repeat center center  ;
+	background-size: cover;
+}
+h1,h2,h3,h4,h5,h6,ul,li{
+	margin:0;
+	padding:0;
+	list-style:none;
+}
+.clear{
+	clear:both;
+}
+span{
+	display:block;
+	width:100px;
+	height:100px;
+	/*background: red;*/
+	text-align: center;
+	line-height: 200px;
+	background-size:100px 100px ;
+	color:#8FD3E7;
+	font-size: 24px;
+	font-weight: 600;
+}
